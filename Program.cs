@@ -28,6 +28,8 @@ namespace arrays_intro
                 Console.WriteLine(myNumbers[i]);
             }
 
+
+
             Console.WriteLine(mynums2.Length);
             Console.WriteLine(mynums2.GetUpperBound(0));
             Console.WriteLine(mynums2[3]);
